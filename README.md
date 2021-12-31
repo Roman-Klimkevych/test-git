@@ -1,3 +1,3 @@
 # test-git
 
-please intall
+please install
